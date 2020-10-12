@@ -12,7 +12,7 @@ body {
     flex-wrap: wrap;
   }
 
- a {
+a {
     color: aquamarine;
 }
 
@@ -24,6 +24,7 @@ h2 {
 h3 {
     font-size: 1.3125rem;
     color: gray;
+    font-weight: normal;
 }
 
 /* Header Section */
@@ -35,3 +36,13 @@ h1 {
 
 /* Main Content Section */
 
+.phone-icon {
+    margin: 20px 0;
+}
+
+/* Footer Section */
+
+h3 {
+    text-align: right;
+    margin-right: 10px;
+}
